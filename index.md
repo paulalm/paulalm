@@ -58,7 +58,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   content: Sensing and analysis brought together for Health monitoring at home and
     in everyday life, ecological settings<br>
   headline: "<strong>Healthcare applications</strong>"
