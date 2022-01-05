@@ -32,7 +32,7 @@ page_sections:
     url: "#research"
     button_text: Learn more
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/01/05/dsc_0020.JPG"
     alt_text: Product Shot
   background_image: "/uploads/2022/01/05/dsc_0020.JPG"
 - template: content-feature
