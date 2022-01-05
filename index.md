@@ -38,14 +38,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: research
+  headline: "<strong>Sensors and Data Streams</strong>"
+  content: Using sensors embedded in objects of smart environments or sensors embedded
+    in wearable devices to understand people’s needs or to enable personal awareness
+    and reflection of behavior.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: ''
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
