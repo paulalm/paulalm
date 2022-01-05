@@ -9,17 +9,17 @@ page_sections:
   navigation:
   - link: "/CV"
     link_text: CV
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#research"
+    link_text: Research
+  - link: "/activities"
+    link_text: Activities
+  - link: "/openpositions"
+    link_text: Work with me
+  - link: "/projects"
+    link_text: Projects
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: ''
+    button_text: Contact me
 - template: hero-banner-w-image
   block: hero-2
   slug: features
