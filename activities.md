@@ -34,9 +34,23 @@ page_sections:
     a laboratory setting during cooking sessions of 3 recipes. Check out the <a href="https://abc-research.github.io/cook2020/tutorial/">tutorials</a>'
 - template: 1-column-text
   block: one-column-1
-  headline: ''
-  slug: ''
-  content: ''
+  headline: Service
+  slug: "#service"
+  content: I was a volunteer in the <a href="https://sigchi.org/">SIGCHI</a> Communications
+    Team from 2018 -2020<br>I served as an associate chair for CHI2021<br>I was part
+    of the program committee for ISWC2021<br>I have reviewed for IMWUT, Sensors, Applied
+    Science and IEICE Journals.<br>I served as AC for CHI Late Breaking Works in 2020.<br>I
+    have reviewed for several conferences including CCC (11, 12, 13), IEEE Colombian
+    Conference on Communications and Computing COLCOM (COLCOM 2014, 2015, 2016, 2017),
+    International Conference on Applied Informatics ICAI (2018, 2019), International
+    Conference on Mobile Computing, Applications and Services (MobiCASE 2018), and
+    ABC (2019, 2020).<br>I have participated in the organizing committee of HASCA
+    Workshop since 2018 (co-located with Ubicomp)<br>I have served as Publicity Chair
+    and Publications Chair for the Activity and Behavior Computing Conference.<br>I
+    served as the social media manager for INFORSID and RCIS Conferences in 2016,
+    creating their first twitter account. You can see them here <a href="https://twitter.com/RCIS_Conference"
+    title="https://twitter.com/RCIS_Conference">https://twitter.com/RCIS_Conference</a>
+    and <a href="https://twitter.com/InforsidCongres" title="https://twitter.com/InforsidCongres">https://twitter.com/InforsidCongres</a>
 published: false
 
 ---
