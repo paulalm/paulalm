@@ -3,7 +3,7 @@ title: Paula Lago
 author: Paula Lago
 email: paula.lago@concordia.ca
 description: This is my personal webpage
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: http://paulalago.co
 defaults:
 - scope:
