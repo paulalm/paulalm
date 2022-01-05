@@ -33,7 +33,7 @@ page_sections:
     button_text: Learn more
   image:
     image: "/uploads/2022/01/05/dsc_0020.JPG"
-    alt_text: Product Shot
+    alt_text: A picture of Paula
   background_image: ''
 - template: content-feature
   block: feature-1
