@@ -23,17 +23,18 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>Paula Lago</strong><br>Research in Ambient Intelligence, Activity
+    Recognition, and Technology for Health-care"
+  content: I study how pervasive computing can improve people’s quality of life by
+    adapting to their personal routines and current activity.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "#research"
+    button_text: Learn more
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2022/01/05/dsc_0020.JPG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
