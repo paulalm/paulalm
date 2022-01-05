@@ -23,8 +23,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Paula Lago</strong><br>Research in Ambient Intelligence, Activity
-    Recognition, and Technology for Health-care"
+  headline: Research in Ambient Intelligence, Activity Recognition, and Technology
+    for Health-care
   content: I study how pervasive computing can improve people’s quality of life by
     adapting to their personal routines and current activity.
   cta:
@@ -34,7 +34,7 @@ page_sections:
   image:
     image: "/uploads/2022/01/05/dsc_0020.JPG"
     alt_text: Product Shot
-  background_image: "/uploads/2022/01/05/dsc_0020.JPG"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
