@@ -6,12 +6,15 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: Talks
-  content: 'In Spanish: «Aprendizaje automático de rutinas en casa mediante uso de
-    sensores para identificar cambios de comportamiento» June, 2019 <a href="https://sistemas.uniandes.edu.co/foro/mine/2019/"
+  content: '<span class="pl-c">&lt;!-- .slide: style="text-align: left;"&gt; --&gt;</span><br>In
+    Spanish: «Aprendizaje automático de rutinas en casa mediante uso de sensores para
+    identificar cambios de comportamiento» June, 2019 <a href="https://sistemas.uniandes.edu.co/foro/mine/2019/"
     title="https://sistemas.uniandes.edu.co/foro/mine/2019/">https://sistemas.uniandes.edu.co/foro/mine/2019/</a><br><br>In
     Spanish: «Reconocimiento de actividades usando smartphones» invited talk for the
     class of Research Seminar of the Master in Mathematics of the Sergio Arboleda
