@@ -55,7 +55,7 @@ page_sections:
     patterns and understanding routines
   media:
     image: ''
-    alt_text: Customize Blocks
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
