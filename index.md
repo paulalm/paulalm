@@ -50,18 +50,12 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Pattern Mining and Machine Learning</strong>"
+  content: Making sense of sensor data by recognizing activities, learning frequent
+    patterns and understanding routines
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: ''
     alt_text: Customize Blocks
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-  slug: blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
